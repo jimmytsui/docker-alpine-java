@@ -2,7 +2,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-java.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-java/)
 
 
-Java Docker image
+Java Docker image2
 =================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
